@@ -1,0 +1,2 @@
+export DRIVE="$HOME/Drive"
+export CU="$DRIVE/CU/0_spring_2022"

@@ -1,0 +1,17 @@
+#!/usr/bin/env sh
+alias ls="ls -h --color=auto --group-directories-first"
+alias l="ls -A"
+alias ll="l -l"
+alias t=tmux
+alias v=nvim
+alias sv="sudo nvim"
+alias c=code
+alias py=python
+alias n=node
+alias g=git
+alias d=docker
+alias etm=enterthematrix
+alias y=yay
+alias p="sudo pacman"
+alias sd="sudo shutdown now"
+alias rb="sudo reboot"

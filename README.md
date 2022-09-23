@@ -1,0 +1,3 @@
+# dots
+
+`zsh`, `nvim`, `tmux`
